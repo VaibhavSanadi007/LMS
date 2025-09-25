@@ -7,7 +7,7 @@
   "type": "module",
   "main": "index.js",
   "engines": {
-  "node": ">=20"
+  "node": "22.14.0"
 },
   "scripts": {
     "dev": "nodemon index.js"
